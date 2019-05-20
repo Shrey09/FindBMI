@@ -3,12 +3,11 @@
 Web service to calculate Body Mass Index using Height and Weight
 
 Client Application:- bmi
+Server Application:- bmi-response
 
 ## Steps
-sails lift
-http://localhost:1337
-
-Server Application:- bmi-response
-sails lift --port 1200
+- execute "sails lift" for client appication
+- exceute command "sails lift --port 1200" for server application
+- http://localhost:1337
 
 

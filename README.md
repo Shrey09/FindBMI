@@ -2,8 +2,8 @@
 
 Web service to calculate Body Mass Index using Height and Weight
 
-Client Application:- bmi
-Server Application:- bmi-response
+- Client Application:- bmi
+- Server Application:- bmi-response
 
 ## Steps
 - execute "sails lift" for client appication
